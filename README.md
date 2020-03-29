@@ -30,10 +30,11 @@ Click the "Play" button in the top left (or press Cmd+R). You should have the si
 
 ## List of Simulations
 * Basic Setup
-  * 1.) Basics *
+  * 1.) Basics
 * Solutions
-  * 2.) Better Hygene *
+  * 2.) Better Hygene
   * 3.) Quarantine
+  * 4.) Social Distancing
 * More Realistic Simulations
   * None yet!
 
