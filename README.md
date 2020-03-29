@@ -15,13 +15,19 @@ A series of simulations simulating COVID-19.
 Click on "Clone or Download". Click on "Download ZIP".  You should have a `.zip` file in your Downloads. Unzip the file afterwards.
 
 ### Overly-Fancy Way
-Open a terminal window. Enter the command:
+You may want to do this if you want to keep yourself up-to-date on the project. Open a terminal window. Enter the command:
 
 ```
 $ git clone https://github.com/simon-tiger/Corona-Simulation.git
 ```
 
-You should then have the project in your working directory.
+You should then have the project in your working directory. If you want to keep yourself up-to-date on the project, you can type:
+
+```
+$ git pull origin master
+```
+
+This will match your copy with the one on GitHub.
 
 ### Run It!
 This is where Processing comes in. Open the project folder. Open the folder for whichever simulation you want to run.
