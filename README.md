@@ -45,3 +45,12 @@ Click the "Play" button in the top left (or press Cmd+R). You should have the si
   * None yet!
 
 \* Coming Soon
+
+## YouTube Series
+I have made a few YouTube videos about this!
+
+Part 1: https://youtu.be/_eArInna9dk  
+Part 2: Coming Soon  
+Part 3: Coming Soon  
+Part 4: Coming Soon  
+There may be more parts!
