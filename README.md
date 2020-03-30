@@ -21,7 +21,7 @@ You may want to do this if you want to keep yourself up-to-date on the project. 
 $ git clone https://github.com/simon-tiger/Corona-Simulation.git
 ```
 
-You should then have the project in your working directory. If you want to keep yourself up-to-date on the project, you can type:
+You should then have the project in your working directory. If you want to keep yourself up-to-date on the project, you can go to the project folder, and type:
 
 ```
 $ git pull origin master
