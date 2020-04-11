@@ -40,7 +40,8 @@ Click the "Play" button in the top left (or press Cmd+R). You should have the si
 * Solutions
   * 2.) Better Hygene
   * 3.) Quarantine
-  * 4.) Social Distancing *
+  * 4.) Social Distancing
+  * 5.) Better Social Distancing
 * More Realistic Simulations
   * None yet!
 
